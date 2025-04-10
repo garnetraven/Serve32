@@ -1,1 +1,1 @@
-<img src="Serve32_banner">
+<img src="Serve32_banner.png">
